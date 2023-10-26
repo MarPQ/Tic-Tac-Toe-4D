@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526856679 source:c:\users\marco\documents\escuela\programacion\proyecto\gato 4d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
